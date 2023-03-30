@@ -1,4 +1,4 @@
-# Target_SQL
+#SQL
 SQL for retailer 
 
 Case Study: SQL
